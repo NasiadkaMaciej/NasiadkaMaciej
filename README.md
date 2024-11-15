@@ -1,3 +1,4 @@
 # Hello, I'm Maciej Nasiadka 👋
 
-I'm a software developer who's passionate about exploring and improving my code. I enjoy tinkering and finding new solutions. Learning is my fuel, and I'm always striving to make my code better and better. 
+
+Hey! I'm Maciej Nasiadka - a programmer and Linux nerd who's always tinkering around. I'm often creating tools that simplify my workflow and help me learn new technologies. Programming, for me, is all about turning ideas into reality. I enjoy the process of problem-solving and the sense of accomplishment that comes with building something from scratch.
